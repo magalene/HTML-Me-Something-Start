@@ -1,1 +1,36 @@
 /* Write your CSS here! */
+body{
+    font-family: 'Franklin Gothic Medium';
+    font-size: 12px;
+    background-color: bisque;
+}
+#mainHeading{
+    text-align: center;
+    font-size: 32px;
+    color: red;
+}
+#italics{
+    font-size: 24px;
+    font-style: italic;
+}
+.job{
+    font-size: 20px;
+}
+#school{
+    font-size: 24px;
+    font-style: italic;
+}
+#dates{
+    font-size: 12px;
+    font-style: italic;
+}
+p{
+    margin-top:20px
+}
+b{
+    margin: 8px;
+    display: block;
+}
+.funParagraph{
+    color: green;
+}
